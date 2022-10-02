@@ -1,6 +1,6 @@
 <p align="center">
    
- <img width="500" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/84663829/193302715-f64222f5-cfa8-4e93-91be-5d89c559d968.png">
+ <img width="501" alt="Email Banners-Dark" src="https://user-images.githubusercontent.com/84663829/193302715-f64222f5-cfa8-4e93-91be-5d89c559d968.png">
 </p>
 
 <h1 align = "center"> GDSC BPIT Hacktoberfest 2022 </h1>
